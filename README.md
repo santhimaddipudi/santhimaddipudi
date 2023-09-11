@@ -36,3 +36,22 @@ Innovative Data Professional with 13+ years of experience in Software Developmen
 
 • Worked for industry clients and have experience working with healthcare, banking  and Oil & Gas domains.
 
+
+### Tools | Frameworks
+
+Web: MongoDB, GraphQL
+
+Data Preprocessing: NumPy, Pandas.
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
+
+Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
+
+Data Visualization: Matplotlib, Tableau, Seaborn,Power BI.
+
+Cloud Services: Google Colaboratory, Kaggle kernel.
+
+ETL technolgies: ADF,Databricks,Pyspark,Snowflake,Talend,SSIS
+
+Integrated Development Environment: Jupyter-Notebook, Spider Notebook.
+
