@@ -1,4 +1,7 @@
 ### Hi there 👋  I'm a Data & Engineering Consultant
+### Skills
+
+Python,HTML5,GraphQL,MongoDB,SQL,ADF,Databricks,PowerBI,ML,Azure Synapse,Snowflake
 
 - 🔭 I’m currently working as Azure senior data engineer
 - 🌱 I’m currently learning Python/ML and working on real time projects
