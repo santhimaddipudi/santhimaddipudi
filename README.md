@@ -7,7 +7,7 @@ Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,Snowflake,
 - 🌱 I’m currently learning Python/ML and working on real time projects
 - 👯 I’m looking to collaborate on Datascience and ML discussions/solutions
 - 💬 Ask me about Data science,python,ML
-- 📫 How to reach me: snthimaddipudi@gmail.com
+- 📫 How to reach me: santhimaddipudi@gmail.com
 - ⚡ Fun fact: Always ready to work with Data problems and find solutions to them
 
 
