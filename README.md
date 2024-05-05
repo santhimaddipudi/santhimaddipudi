@@ -25,7 +25,7 @@ Innovative Data Professional with 13+ years of experience in Software Developmen
 
 • Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
-• 13+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
+• 14+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
 
 • Experience in Functional and Object-Oriented Programming styles of Python and Javascript.
 
@@ -42,7 +42,9 @@ Innovative Data Professional with 13+ years of experience in Software Developmen
 
 Web: MongoDB, GraphQL
 
-Data Preprocessing: NumPy, Pandas.
+Data Preprocessing: NumPy, Pandas,pyspark.
+
+Database : Oracle,SQL server,Postgress
 
 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
 
@@ -52,7 +54,7 @@ Data Visualization: Matplotlib, Tableau, Seaborn,Power BI.
 
 Cloud Services: Google Colaboratory, Kaggle kernel.
 
-ETL technolgies: ADF,Databricks,Pyspark,Snowflake,Talend,SSIS
+ETL technolgies: ADF,Databricks,Pyspark,Synapse Analytics,Snowflake,Talend,SSIS
 
 Integrated Development Environment: Jupyter-Notebook, Spider Notebook.
 
