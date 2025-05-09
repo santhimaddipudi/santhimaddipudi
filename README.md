@@ -11,9 +11,9 @@ Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,Snowflake,
 - ⚡ Fun fact: Always ready to work with Data problems and find solutions to them
 
 
-Innovative Data Professional with 13+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
+Innovative Data Professional with 15+years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
-• 13+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in cloud and onpremise applications.
+• 15+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in cloud and onpremise applications.
 
 • Experience in Functional and Object-Oriented Programming styles of Python.
 
