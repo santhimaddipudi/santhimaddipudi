@@ -1,12 +1,12 @@
-### Hi there 👋  I'm a Lead Data & Engineering Consultant
+### Hi there 👋  I'm a AI & Data Engineering Lead 
 ### Skills
 
-Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,Snowflake,Pyspark
+Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspark
 
-- 🔭 I’m currently working as Azure senior data engineer
-- 🌱 I’m currently learning Python/ML and working on real time projects
+- 🔭 I’m currently working as  AI & Data Engineering Lead 
+- 🌱 I’m Activekly working on AI/ML and working on real time projects
 - 👯 I’m looking to collaborate on Datascience and ML discussions/solutions
-- 💬 Ask me about Data science,python,ML
+- 💬 Ask me about Data science,python,ML,Agentic AI
 - 📫 How to reach me: santhimaddipudi@gmail.com
 - ⚡ Fun fact: Always ready to work with Data problems and find solutions to them
 
