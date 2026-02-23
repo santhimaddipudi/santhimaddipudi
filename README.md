@@ -60,10 +60,10 @@ Integrated Development Environment: Jupyter-Notebook, Spider Notebook.
 
 ### Certifications:
 Microst Certified Azure data scientist associate\
-Microsoft Certified Fabric Analytics Engineer Associate
-Databricks Certified Data engineer Associate
-Databricks Certified Data Analyst Associate
-Databrickds Certfied Generative AI engineer Associate
+Microsoft Certified Fabric Analytics Engineer Associate\
+Databricks Certified Data engineer Associate\
+Databricks Certified Data Analyst Associate\
+Databrickds Certfied Generative AI engineer Associate\
 Databrickds Certfied Solution Architect essentials
 
 
