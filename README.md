@@ -57,40 +57,35 @@ Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
 
 Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
 
-Data Visualization: Matplotlib, Tableau, Seaborn,Power BI.
+Data Visualization: Matplotlib, Tableau, Seaborn,Power BI,Microsoft Fabric,Powerapps
+
+Cloud Environments : Azure,AWS
 
 Cloud Services: Google Colaboratory, Kaggle kernel.
 
-ETL technolgies: ADF,Databricks,Pyspark,Synapse Analytics,Snowflake,Talend,SSIS,Databricks
+ETL technolgies: ADF,Databricks,Pyspark,Synapse Analytics,Talend,SSIS,Databricks,AWS Glue,Amazon EMR,Amazon Redshift
 
-Integrated Development Environment: Jupyter-Notebook, Spider Notebook.
+AI studios: Azure MLstudio,Amazon Bedrock,Amazon sagemaker
+
+Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code,.
 
 ### Skills
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="/assets/js.png" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="/assets/py.png" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="./assets/html.png" 
-width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/re.png" width="36" height="36" alt="React" /
-></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="./assets/css.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="./assets/boot.png" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="./assets/boot.png" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="/assets/js.png" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="/assets/py.png" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/html.png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/re.png" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./assets/css.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/boot.png" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="./assets/talend.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.talend.com/" target="_blank" rel="noreferrer">
-<img src="./assets/talend.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/node.png" width="36" height="36" 
-alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/graph.png" width="36" height="36" 
-alt="GraphQL" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/node.png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/graph.png" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://app.fabric.microsoft.com/" target="_blank" rel="noreferrer"><img src="./assets/fabric.png" width="36" height="36" alt="Fabric" /></a>
+<a href="https://ai.azure.com/" target="_blank" rel="noreferrer"><img src="./assets/aifond.png" width="36" height="36" alt="AzureFondry" /></a>
+<a href="https://make.powerapps.com/" target="_blank" rel="noreferrer"><img src="./assets/power.png" width="36" height="36" alt="powerapps" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="./assets/tab.png" width="36" height="36" alt="tableau" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongo.png" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="./assets/oracle.png" width="36" height="36" alt="OracleDB" /></a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="./assets/db.png" width="36" height="36" alt="Databricks" /></a>
@@ -98,6 +93,18 @@ alt="GraphQL" /></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="./assets/azure.png" width="36" height="36" alt="Azure" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/aws.png" width="36" height="36" alt="AWS" /></a>
 </p>
+
+⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
+
+⚡ Developed data pipeline and ﬂow with DevOps on Azure and AWS for various clients. 
+
+⚡ Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 
+
+⚡Worked on different projects in multiple domains like Banking, Oil&Gas, Insurance domains
+
+⚡ Solved complex problems with ML&AI and implemnted various use cases for business problems. 
+
+
 
 ### Badges/Certifications
 
