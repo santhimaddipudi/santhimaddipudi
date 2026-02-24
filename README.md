@@ -1,7 +1,4 @@
 ### Hi there 👋  I'm a AI & Data Engineering Lead Building AI-powered products and helping Clients.
-### Skills
-
-Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspark
 
 - 🔭 I’m currently working as  AI & Data Engineering Lead 
 - 🌱 I’m Activekly working on AI/ML and working on real time projects
