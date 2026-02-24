@@ -1,8 +1,4 @@
 ### Hi there 👋  I'm a AI & Data Engineering Lead Building AI-powered products and helping Clients.
-<<<<<<< HEAD
-
-=======
->>>>>>> 67b34db19344e58a41f6b21910a07d627eae666b
 
 - 🔭 I’m currently working as  AI & Data Engineering Lead 
 - 🌱 I’m Activekly working on AI/ML and working on real time projects
@@ -33,11 +29,6 @@ Innovative Data Professional with 15+years of experience in Software Development
 • Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
 • Worked for industry clients and have experience working with banking,Insurance,Oil & Gas domains.
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 67b34db19344e58a41f6b21910a07d627eae666b
 
 
 ### Tools | Frameworks
@@ -89,11 +80,7 @@ Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code,.
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/aws.png" width="36" height="36" alt="AWS" /></a>
 </p>
 
-<<<<<<< HEAD
-⚡Understand business requirements and deliver effective, reliable solutions that ensure smooth and efficient business operations.
-=======
 ⚡ Understand business requirements and deliver effective, reliable solutions that ensure smooth and efficient business operations. 
->>>>>>> 67b34db19344e58a41f6b21910a07d627eae666b
 
 ⚡ Developed data pipeline and ﬂow with DevOps on Azure and AWS for various clients. 
 
