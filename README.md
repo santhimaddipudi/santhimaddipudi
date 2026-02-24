@@ -1,4 +1,4 @@
-### Hi there 👋  I'm a AI & Data Engineering Lead 
+### Hi there 👋  I'm a AI & Data Engineering Lead Building AI-powered products and helping Clients.
 ### Skills
 
 Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspark
@@ -9,6 +9,15 @@ Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspar
 - 💬 Ask me about Data science,python,ML,Agentic AI
 - 📫 How to reach me: santhimaddipudi@gmail.com
 - ⚡ Fun fact: Always ready to work with Data problems and find solutions to them
+
+### Socials
+
+
+<p align="left"> <a href="https://santhimaddipudi.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.
+githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/santhi1712/" target="_blank" 
+rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.
+svg" width="32" height="32" /></a> </p>
+
 
 
 Innovative Data Professional with 15+years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
