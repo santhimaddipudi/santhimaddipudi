@@ -13,11 +13,8 @@ Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspar
 ### Socials
 
 
-<p align="left"> <a href="https://santhimaddipudi.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.
-githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/santhi1712/" target="_blank" 
-rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.
-svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://santhimaddipudi.github.io/" target="_blank" rel="noreferrer"><img src="./assets/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/santhi1712/" target="_blank" rel="noreferrer"><img src="./assets/linkedin.svg" width="32" height="32" /></a> </p>
 
 
 
@@ -68,13 +65,55 @@ ETL technolgies: ADF,Databricks,Pyspark,Synapse Analytics,Snowflake,Talend,SSIS,
 
 Integrated Development Environment: Jupyter-Notebook, Spider Notebook.
 
-### Certifications:
+### Skills
 
-- Microst Certified Azure data scientist associate\
-- Microsoft Certified Fabric Analytics Engineer Associate\
-- Databricks Certified Data engineer Associate\
-- Databricks Certified Data Analyst Associate\
-- Databrickds Certfied Generative AI engineer Associate\
-- Databrickds Certfied Solution Architect essentials
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="/assets/js.png" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="/assets/py.png" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<img src="./assets/html.png" 
+width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/re.png" width="36" height="36" alt="React" /
+></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+<img src="./assets/css.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="./assets/boot.png" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="./assets/boot.png" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="./assets/talend.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.talend.com/" target="_blank" rel="noreferrer">
+<img src="./assets/talend.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/node.png" width="36" height="36" 
+alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/graph.png" width="36" height="36" 
+alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongo.png" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="./assets/oracle.png" width="36" height="36" alt="OracleDB" /></a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="./assets/db.png" width="36" height="36" alt="Databricks" /></a>
+<a href="https://azure.microsoft.com/en-us/products/azure-sql/" target="_blank" rel="noreferrer"><img src="./assets/sql.png" width="36" height="36" alt="AzureSQL" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="./assets/azure.png" width="36" height="36" alt="Azure" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/aws.png" width="36" height="36" alt="AWS" /></a>
+</p>
+
+### Badges/Certifications
+
+<p align="left"> 
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Azure%20data%20scientist%20associate.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftds.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/fabric.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftfabric.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks%20asscociate%20data%20engineer.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbde.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks_dataanalyst.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbda.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Databricks%20GenAI_Santhi.PNG" target="_blank" rel="noreferrer"><img src="./assets/dbgen.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/santhi_databricks_solutionarchitect.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbsol.png" width="32" height="32" /></a>
+</p>
+
+
+
+
+
+
 
 
