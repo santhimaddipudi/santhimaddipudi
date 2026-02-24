@@ -14,7 +14,8 @@ Python,HTML5,MongoDB,SQL,hive,ADF,Databricks,PowerBI,ML,Azure Synapse,AWS,Pyspar
 
 
 <p align="left"> <a href="https://santhimaddipudi.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.
-githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/santhi1712/" target="_blank" 
+githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/santhi1712/" target="_blank" 
 rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.
 svg" width="32" height="32" /></a> </p>
 
