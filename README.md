@@ -96,12 +96,12 @@ Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code,.
 ### Badges/Certifications
 
 <p align="left"> 
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Azure%20data%20scientist%20associate.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftds.png" width="32" height="32" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/fabric.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftfabric.png" width="32" height="32" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks%20asscociate%20data%20engineer.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbde.png" width="32" height="32" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks_dataanalyst.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbda.png" width="32" height="32" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Databricks%20GenAI_Santhi.PNG" target="_blank" rel="noreferrer"><img src="./assets/dbgen.png" width="32" height="32" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/santhi_databricks_solutionarchitect.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbsol.png" width="32" height="32" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Azure%20data%20scientist%20associate.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftds.png" width="45" height="45" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/fabric.pdf" target="_blank" rel="noreferrer"><img src="./assets/microsoftfabric.png" width="45" height="45" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks%20asscociate%20data%20engineer.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbde.png" width="45" height="45" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks_dataanalyst.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbda.png" width="45" height="45" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Databricks%20GenAI_Santhi.PNG" target="_blank" rel="noreferrer"><img src="./assets/dbgen.png" width="45" height="45" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/santhi_databricks_solutionarchitect.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbsol.png" width="45" height="45" /></a>
 </p>
 
 
