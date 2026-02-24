@@ -51,9 +51,9 @@ Cloud Services: Google Colaboratory, Kaggle kernel.
 
 ETL technolgies: ADF,Databricks,Pyspark,Synapse Analytics,Talend,SSIS,Databricks,AWS Glue,Amazon EMR,Amazon Redshift
 
-AI studios: Azure MLstudio,Amazon Bedrock,Amazon sagemaker
+AI/ML Cloud tools: Azure MLstudio,Amazon Bedrock,Amazon sagemaker.
 
-Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code,.
+Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code.
 
 ### Skills
 
