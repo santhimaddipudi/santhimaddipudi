@@ -32,17 +32,7 @@ Innovative Data Professional with 15+years of experience in Software Development
 
 • Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
-• 14+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
-
-• Experience in Functional and Object-Oriented Programming styles of Python and Javascript.
-
-• Expertise in Full python libraries like Pandas,Numpy,matplotlib,seaborn,scikit.
-
-• In-depth understanding of Python and JavaScript.
-
-• Knowledge of Service Oriented Architecture (SOA).
-
-• Worked for industry clients and have experience working with healthcare, banking  and Oil & Gas domains.
+• Worked for industry clients and have experience working with banking,Insurance,Oil & Gas domains.
 
 
 ### Tools | Frameworks
@@ -94,7 +84,7 @@ Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code,.
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/aws.png" width="36" height="36" alt="AWS" /></a>
 </p>
 
-⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
+⚡ Understand business requirements and deliver effective, reliable solutions that ensure smooth and efficient business operations. 
 
 ⚡ Developed data pipeline and ﬂow with DevOps on Azure and AWS for various clients. 
 
