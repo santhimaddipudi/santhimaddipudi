@@ -12,7 +12,9 @@
 
 <p align="left"> <a href="https://santhimaddipudi.github.io/" target="_blank" rel="noreferrer"><img src="./assets/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/santhi1712/" target="_blank" rel="noreferrer"><img src="./assets/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://x.com/smaddipudi17" target="_blank" rel="noreferrer"><img src="./assets/twitter.png" width="32" height="32" /></a> 
 <a href="https://medium.com/@santhimaddipudi" target="_blank" rel="noreferrer"><img src="./assets/medium.png" width="32" height="32" /></a> </p>
+
 
 Innovative Data Professional with 15+years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
