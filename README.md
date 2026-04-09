@@ -97,8 +97,8 @@ Integrated Development Environment: Jupyter-Notebook, Spider Notebook,VS code.
 ### Badges/Certifications
 
 <p align="left"> 
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/DB_ML_Professional.png" target="_blank" rel="noreferrer"><img src="./assets/dbmlp.png" width="100" height="100" /></a>
-<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks%20asscociate%20data%20engineer.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbde.png" width="100" height="100" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/DB_ML_Professional.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbmlp.png" width="100" height="100" /></a>
+<a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/DB_DataEngineer_Professional.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbdep.png" width="100" height="100" /></a>
 <a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/databricks_dataanalyst.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbda.png" width="100" height="100" /></a>
 <a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/Databricks%20GenAI_Santhi.PNG" target="_blank" rel="noreferrer"><img src="./assets/dbgen.png" width="100" height="100" /></a>
 <a href="https://github.com/santhimaddipudi/santhimaddipudi/blob/main/santhi_databricks_solutionarchitect.pdf" target="_blank" rel="noreferrer"><img src="./assets/dbsol.png" width="100" height="100" /></a>
